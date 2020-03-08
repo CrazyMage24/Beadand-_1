@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1583681073 source:c:\users\gábor\desktop\falrombolós\main.cpp
+	"osztaly.h"
+
+1583681073 c:\users\gábor\desktop\falrombolós\osztaly.h
+	"graphics.hpp"
+	<vector>
+	<sstream>
+	<iostream>
+
+1488256928 c:\users\gábor\desktop\falrombolós\include\graphics.hpp
+	<string>
+
+1583681073 source:c:\users\gábor\desktop\falrombolós\osztaly.cpp
+	"osztaly.h"
+
