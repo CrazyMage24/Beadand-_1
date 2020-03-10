@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1583681073 source:c:\users\gábor\desktop\falrombolós\main.cpp
+	"osztaly.h"
+
+1583681073 c:\users\gábor\desktop\falrombolós\osztaly.h
+	"graphics.hpp"
+	<vector>
+	<sstream>
+	<iostream>
+
+1488256928 c:\users\gábor\desktop\falrombolós\include\graphics.hpp
+	<string>
+
+1583681073 source:c:\users\gábor\desktop\falrombolós\osztaly.cpp
+	"osztaly.h"
+
+1583684966 source:d:\downloads\beadand-_1-master\beadand-_1-master\falrombolós_v2\main.cpp
+	"osztaly.h"
+
+1583684966 d:\downloads\beadand-_1-master\beadand-_1-master\falrombolós_v2\osztaly.h
+	"graphics.hpp"
+	<vector>
+	<sstream>
+	<iostream>
+
+1583684966 d:\downloads\beadand-_1-master\beadand-_1-master\falrombolós_v2\include\graphics.hpp
+	<string>
+
+1583685857 source:d:\downloads\beadand-_1-master\beadand-_1-master\falrombolós_v2\osztaly.cpp
+	"osztaly.h"
+
+1583684966 source:c:\users\gábor\desktop\falrombolós_v2\main.cpp
+	"osztaly.h"
+
+1583872428 c:\users\gábor\desktop\falrombolós_v2\osztaly.h
+	"graphics.hpp"
+	<vector>
+	<sstream>
+	<iostream>
+
+1583684966 c:\users\gábor\desktop\falrombolós_v2\include\graphics.hpp
+	<string>
+
+1583872108 source:c:\users\gábor\desktop\falrombolós_v2\osztaly.cpp
+	"osztaly.h"
+
